@@ -39,3 +39,8 @@
 *.tdo
 *.nls
 *.pdf
+.latexmkrc
+latexdockercmd.sh
+main.xwm
+.cache
+_minted-main
